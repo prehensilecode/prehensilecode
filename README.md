@@ -1,6 +1,5 @@
 ### Hi there 👋
-- name: Blog Post Workflow
-  uses: gautamkrishnar/blog-post-workflow@1.6.7
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
