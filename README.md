@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
 
-# Blog posts at https://linuxfollies.blogspot.com/
+# Blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Python tips for beginners](https://linuxfollies.blogspot.com/2021/11/python-tips-for-beginners.html)
 - [AlphaFold 2 on Singularity + Slurm](https://linuxfollies.blogspot.com/2021/09/alphafold-2-on-singularity-slurm.html)
