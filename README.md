@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 😄 Pronouns: he/him
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
