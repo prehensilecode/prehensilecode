@@ -2,7 +2,7 @@
 - 😄 Pronouns: he/him
 
 ### 🧮 Other profiles
-- [StackOverflow](https://stackoverflow.com/users/299952/phzx-munki)
+- [StackExchange](https://stackexchange.com/users/113983/phzx-munki?tab=accounts)
 - [ORCID](https://orcid.org/0000-0003-1809-4431)
 - [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
 
