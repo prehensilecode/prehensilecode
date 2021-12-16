@@ -2,9 +2,9 @@
 - 😄 Pronouns: he/him
 
 ### 🧮 Other profiles
-- [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
-- [ORCID](https://orcid.org/0000-0003-1809-4431)
 - [StackOverflow](https://stackoverflow.com/users/299952/phzx-munki)
+- [ORCID](https://orcid.org/0000-0003-1809-4431)
+- [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
