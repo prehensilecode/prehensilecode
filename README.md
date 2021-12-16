@@ -3,7 +3,7 @@
 
 ### 🧮 Other profiles
 - [StackExchange](https://stackexchange.com/users/113983/phzx-munki?tab=accounts)
-- <img src="imgs/orcid.svg" alt="orcid" width="200px"/>[ORCID](https://orcid.org/0000-0003-1809-4431)
+- <img src="imgs/orcid.svg" alt="orcid" width="20px"/>[ORCID](https://orcid.org/0000-0003-1809-4431)
 - [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
