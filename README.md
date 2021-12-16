@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
 
-# 🧮 Other profiles
+### 🧮 Other profiles
 - [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
 
-# 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
+### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Python tips for beginners](https://linuxfollies.blogspot.com/2021/11/python-tips-for-beginners.html)
 - [AlphaFold 2 on Singularity + Slurm](https://linuxfollies.blogspot.com/2021/09/alphafold-2-on-singularity-slurm.html)
