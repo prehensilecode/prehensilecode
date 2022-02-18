@@ -8,11 +8,11 @@
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
+- [Setting up multi-factor authentication &lpar;MFA&rpar; on Red Hat Enterprise Linux](https://linuxfollies.blogspot.com/2022/02/setting-up-multi-factor-authentication.html)
 - [Python csv.DictReader](https://linuxfollies.blogspot.com/2022/02/python-csvdictreader.html)
 - [Nvidia acquires Bright Computing](https://linuxfollies.blogspot.com/2022/01/nvidia-acquires-bright-computing.html)
 - [Python tips for beginners](https://linuxfollies.blogspot.com/2021/11/python-tips-for-beginners.html)
 - [AlphaFold 2 on Singularity + Slurm](https://linuxfollies.blogspot.com/2021/09/alphafold-2-on-singularity-slurm.html)
-- [US DoE &lpar;Argonne&rpar; to acquire AMD+Nvidia supercomputer as testbed for delayed Intel-based exascale supercomputer](https://linuxfollies.blogspot.com/2021/08/us-doe-argonne-to-acquire-amdnvidia.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
