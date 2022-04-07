@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
+- 🔭 I currently work at <img src="imgs/drexel.svg" alt="drexel" width="18px"/> [Drexel](https://drexel.edu/core-facilities/facilities/research-computing/)
 
 ### 🧮 Other profiles
 - <img src="imgs/stackexchange.svg" alt="stackexchange" width="18px"/> [StackExchange](https://stackexchange.com/users/113983/phzx-munki?tab=accounts)
