@@ -5,6 +5,7 @@
 - <img src="imgs/stackexchange.svg" alt="stackexchange" width="18px"/> [StackExchange](https://stackexchange.com/users/113983/phzx-munki?tab=accounts)
 - <img src="imgs/orcid.svg" alt="orcid" width="18px"/> [ORCID](https://orcid.org/0000-0003-1809-4431)
 - <img src="imgs/researchgate.svg" alt="researchgate" width="18px"/> [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
+- <img src="imgs/gitlab.svg" alt="gitlab" width="18px"/> [GitLab](https://gitlab.com/prehensilecode)
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
