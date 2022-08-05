@@ -11,7 +11,7 @@
 - <img src="imgs/researchgate.svg" alt="researchgate" width="18px"/> [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
 - <img src="imgs/gitlab.svg" alt="gitlab" width="18px"/> [GitLab](https://gitlab.com/prehensilecode)
 
-### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.blogspot.com/)
+### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
 - [Setting up multi-factor authentication &lpar;MFA&rpar; on Red Hat Enterprise Linux](https://linuxfollies.blogspot.com/2022/02/setting-up-multi-factor-authentication.html)
 - [Python csv.DictReader](https://linuxfollies.blogspot.com/2022/02/python-csvdictreader.html)
