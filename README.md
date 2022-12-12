@@ -13,11 +13,11 @@
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Managed to Transfer Twice the Global Internet Traffic in a Single Second](https://linuxfollies.prehensilecode.net/2022/12/researchers-managed-to-transfer-twice.html)
 - [Singularity recipe and image for AlphaFold](https://linuxfollies.prehensilecode.net/2022/10/singularity-recipe-and-image-for.html)
 - [Setting up multi-factor authentication &lpar;MFA&rpar; on Red Hat Enterprise Linux](https://linuxfollies.prehensilecode.net/2022/02/setting-up-multi-factor-authentication.html)
 - [Python csv.DictReader](https://linuxfollies.prehensilecode.net/2022/02/python-csvdictreader.html)
 - [Nvidia acquires Bright Computing](https://linuxfollies.prehensilecode.net/2022/01/nvidia-acquires-bright-computing.html)
-- [Python tips for beginners](https://linuxfollies.prehensilecode.net/2021/11/python-tips-for-beginners.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
