@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
 - 🏫 I currently work at <img src="imgs/drexel.svg" alt="drexel" width="18px"/> [Drexel](https://drexel.edu/core-facilities/facilities/research-computing/)
-- 🔭 I received a PhD in Physics from University of Michigan - Ann Arbor working on [LIGO](https://www.ligo.org) under Dr. Keith Riles. LIGO founders Barry Barish, Kip Thorne, and Rainer Weiss received the [2017 Nobel Prize in Physics](https://www.ligo.caltech.edu/page/press-release-2017-nobel-prize).
+- 🔭 I received a PhD in Physics from University of Michigan - Ann Arbor working on [LIGO](https://www.ligo.org) under [Dr. Keith Riles](https://lsa.umich.edu/physics/people/faculty/kriles.html). LIGO founders Barry Barish, Kip Thorne, and Rainer Weiss received the [2017 Nobel Prize in Physics](https://www.ligo.caltech.edu/page/press-release-2017-nobel-prize).
 
 [![PrehensileCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=prehensilecode&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
