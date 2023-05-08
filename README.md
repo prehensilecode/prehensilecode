@@ -13,11 +13,11 @@
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
+- [Fireship YouTube: Serverless was a big mistake... says Amazon](https://linuxfollies.prehensilecode.net/2023/05/fireship-youtube-serverless-was-big.html)
 - [Industry Out of Phase With Supercomputers &lpar;IEEE Spectrum&rpar;](https://linuxfollies.prehensilecode.net/2023/04/industry-out-of-phase-with.html)
 - [ChatGPT plays chess against Stockfish](https://linuxfollies.prehensilecode.net/2023/02/chatgpt-plays-chess-against-stockfish.html)
 - [RPM generation error “Missing build-id”](https://linuxfollies.prehensilecode.net/2023/02/rpm-generation-error-missing-build-id.html)
 - [Researchers Managed to Transfer Twice the Global Internet Traffic in a Single Second](https://linuxfollies.prehensilecode.net/2022/12/researchers-managed-to-transfer-twice.html)
-- [Singularity recipe and image for AlphaFold](https://linuxfollies.prehensilecode.net/2022/10/singularity-recipe-and-image-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
