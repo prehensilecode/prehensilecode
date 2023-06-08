@@ -13,11 +13,11 @@
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
+- [AlphaFold Singularity bugfix 2.3.2-1](https://linuxfollies.prehensilecode.net/2023/06/alphafold-singularity-bugfix-232-1.html)
 - [Linus Tech Tips takes a look at the Nvidia Grace CPU and the Hopper GPU](https://linuxfollies.prehensilecode.net/2023/05/linus-tech-tips-takes-look-at-nvidia.html)
 - [YubiKey U2F on Ubuntu](https://linuxfollies.prehensilecode.net/2023/05/yubikey-u2f-on-ubuntu.html)
 - [GPUs in CFD](https://linuxfollies.prehensilecode.net/2023/05/gpus-in-cfd.html)
 - [Fireship YouTube: Serverless was a big mistake... says Amazon](https://linuxfollies.prehensilecode.net/2023/05/fireship-youtube-serverless-was-big.html)
-- [Industry Out of Phase With Supercomputers &lpar;IEEE Spectrum&rpar;](https://linuxfollies.prehensilecode.net/2023/04/industry-out-of-phase-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
