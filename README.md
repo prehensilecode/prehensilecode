@@ -20,6 +20,9 @@
 - [Fireship YouTube: Serverless was a big mistake... says Amazon](https://linuxfollies.prehensilecode.net/2023/05/fireship-youtube-serverless-was-big.html)
 <!-- BLOG-POST-LIST:END -->
 
+### Other Links
+- [Drexel University Research Computing Facility HPC documentation](https://docs.urcf.drexel.edu/) (I created and maintained documentation for the 9.5 years that I worked at URCF)
+
 <!--
 **prehensilecode/prehensilecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
