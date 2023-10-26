@@ -22,6 +22,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Other Links
+- [My Gists, including compilation recipes for various research software](https://gist.github.com/prehensilecode)
 - [Drexel University Research Computing Facility HPC documentation](https://docs.urcf.drexel.edu/) (I created and maintained documentation for the 9.5 years that I worked at URCF)
 
 <!--
