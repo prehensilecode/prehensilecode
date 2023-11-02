@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
 - 🔭 I have a PhD in Physics from University of Michigan - Ann Arbor working on [LIGO](https://www.ligo.org) under [Dr. Keith Riles](https://lsa.umich.edu/physics/people/faculty/kriles.html). LIGO founders [Barry Barish](https://pma.caltech.edu/people/barry-c-barish), [Kip Thorne](https://pma.caltech.edu/people/kip-s-thorne), and [Rainer Weiss](https://physics.mit.edu/faculty/rainer-weiss/) received the [2017 Nobel Prize in Physics](https://www.ligo.caltech.edu/page/press-release-2017-nobel-prize).
-- I am co-PI on [NSF Award 2320600 - MRI: Track 2 Development of a Platform for Accessible Data-Intensive Science and Engineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320600&HistoricalAwards=false)
+- 🔬I am co-PI on [NSF Award 2320600 - MRI: Track 2 Development of a Platform for Accessible Data-Intensive Science and Engineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320600&HistoricalAwards=false)
 
 [![PrehensileCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=prehensilecode&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
