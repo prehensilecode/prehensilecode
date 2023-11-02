@@ -11,6 +11,7 @@
 - <img src="imgs/researchgate.svg" alt="researchgate" width="18px"/> [Research Gate](https://www.researchgate.net/profile/David-Chin-6)
 - <img src="imgs/gitlab.svg" alt="gitlab" width="18px"/> [GitLab](https://gitlab.com/prehensilecode)
 - <img src="imgs/mastodon.svg" alt="mastodon" width="18px"/> [Mastodon @prehensilecode@hachyderm.io](https://hachyderm.io/@prehensilecode)
+- <img src="imgs/mastodon.svg" alt="mastodon" width="18px"/> [Mastodon @prehensilecode@mast.hpc.social](https://mast.hpc.social/@prehensilecode)
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
