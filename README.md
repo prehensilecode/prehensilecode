@@ -15,11 +15,11 @@
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo OneCLI 4.3.0 Linux bash completion bug](https://linuxfollies.prehensilecode.net/2023/11/lenovo-onecli-430-linux-bash-completion.html)
 - [Python packaging example with commandline script and module-level constant](https://linuxfollies.prehensilecode.net/2023/11/python-packaging-example-with.html)
 - [Notes on building Genomic Data Commons gdc-client](https://linuxfollies.prehensilecode.net/2023/09/notes-on-building-genomic-data-commons.html)
 - [AlphaFold Singularity bugfix 2.3.2-1](https://linuxfollies.prehensilecode.net/2023/06/alphafold-singularity-bugfix-232-1.html)
 - [Linus Tech Tips takes a look at the Nvidia Grace CPU and the Hopper GPU](https://linuxfollies.prehensilecode.net/2023/05/linus-tech-tips-takes-look-at-nvidia.html)
-- [YubiKey U2F on Ubuntu](https://linuxfollies.prehensilecode.net/2023/05/yubikey-u2f-on-ubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Other Links
