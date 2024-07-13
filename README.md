@@ -24,6 +24,7 @@
 
 ### Other Links
 - [My Gists, including compilation recipes for various research software](https://gist.github.com/prehensilecode). Some highlights:
+  - [GPFS snapshotter script (Python)](https://gist.github.com/prehensilecode/d9e8b0cadbf0bf6b7feb3eb5ec1a9c22)
   - [HOWTO Link R with OpenBLAS](https://gist.github.com/prehensilecode/72d0f0581c9de2862cbb46f1b64e2d88)
   - [HOWTO Build NCBI NGS on RHEL 8](https://gist.github.com/prehensilecode/91cf502d2f5fa8ea1290b13ca0b37970)
 - [Drexel University Research Computing Facility HPC documentation](https://docs.urcf.drexel.edu/) (I created and maintained documentation for the 9.5 years that I worked at URCF)
