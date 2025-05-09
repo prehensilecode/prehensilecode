@@ -15,11 +15,11 @@
 
 ### 📕 Latest blog posts at [Linux Follies](https://linuxfollies.prehensilecode.net/)
 <!-- BLOG-POST-LIST:START -->
+- [Quick start guide to using Poetry for Python packaging](https://linuxfollies.prehensilecode.net/2025/05/quick-start-guide-to-using-poetry-for.html)
+- [Linux x86_64 Virtual Machine on Apple Silicon using UTM &lpar;QEMU&rpar;](https://linuxfollies.prehensilecode.net/2025/05/linux-x8664-virtual-machine-on-apple.html)
 - [Note on migrating MediaWiki articles to static MarkDown with mkdocs-material](https://linuxfollies.prehensilecode.net/2024/07/note-on-migrating-mediawiki-articles-to.html)
 - [Slurm associations](https://linuxfollies.prehensilecode.net/2024/04/slurm-associations.html)
 - [VMs on macOS 14.2 Sonoma](https://linuxfollies.prehensilecode.net/2024/01/vms-on-macos-142-sonoma.html)
-- [Lenovo OneCLI 4.3.0 Linux bash completion bug](https://linuxfollies.prehensilecode.net/2023/11/lenovo-onecli-430-linux-bash-completion.html)
-- [Python packaging example with commandline script and module-level constant](https://linuxfollies.prehensilecode.net/2023/11/python-packaging-example-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Other Links
